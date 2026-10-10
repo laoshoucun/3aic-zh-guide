@@ -54,13 +54,13 @@
 
 ## 常见问题
 
-- [codex中转站是什么，和官网原版差在哪](docs/codex-01-codex中转站是什么和官网原版差在哪.md)
-- [codex中转站怎么配置，地址和密钥两步接上](docs/codex-02-codex中转站怎么配置地址和密钥两步接上.md)
-- [codex中转站和原版有什么区别，三条能自己对](docs/codex-03-codex中转站和原版有什么区别三条能自己对.md)
-- [chatgpt中转站是什么，和官网订阅不是一回事](docs/chatgpt-01-chatgpt中转站是什么和官网订阅不是一回事.md)
-- [ChatGPT中转和官方API的区别，三条能自己验](docs/chatgpt-02-ChatGPT中转和官方API的区别三条能自己验.md)
-- [api中转站是什么，一个密钥接多个模型讲明白](docs/chatgpt-06-api中转站是什么一个密钥接多个模型讲明白.md)
-- [中转站能不能生图，gpt-image 那条路走一遍](docs/chatgpt-09-中转站能不能生图gpt-image那条路走一遍.md)
+- [codex中转站是什么，和官网原版差在哪](docs/01-codex中转站是什么和官网原版差在哪.md)
+- [codex中转站怎么配置，地址和密钥两步接上](docs/02-codex中转站怎么配置地址和密钥两步接上.md)
+- [codex中转站和原版有什么区别，三条能自己对](docs/03-codex中转站和原版有什么区别三条能自己对.md)
+- [chatgpt中转站是什么，和官网订阅不是一回事](docs/11-chatgpt中转站是什么和官网订阅不是一回事.md)
+- [ChatGPT中转和官方API的区别，三条能自己验](docs/12-ChatGPT中转和官方API的区别三条能自己验.md)
+- [api中转站是什么，一个密钥接多个模型讲明白](docs/16-api中转站是什么一个密钥接多个模型讲明白.md)
+- [中转站能不能生图，gpt-image 那条路走一遍](docs/19-中转站能不能生图gpt-image那条路走一遍.md)
 - **中转站会不会动我的代码？** 会不会动，取决于你把权限放多大。中转站负责的是把请求送出去、把回答拿回来，该不该让工具直接改文件、跑命令，是你在客户端里自己开的权限。
 - **中转站能用自己已有的账号吗？** 用的是中转站发的密钥，不是你的官方账号密码；官方账号与中转站密钥是两套东西，互不影响。
 
@@ -68,29 +68,29 @@
 
 ### codex 中转站（10 篇）
 
-- [codex中转站是什么，和官网原版差在哪](docs/codex-01-codex中转站是什么和官网原版差在哪.md)
-- [codex中转站怎么配置，地址和密钥两步接上](docs/codex-02-codex中转站怎么配置地址和密钥两步接上.md)
-- [codex中转站和原版有什么区别，三条能自己对](docs/codex-03-codex中转站和原版有什么区别三条能自己对.md)
-- [codex中转站能用自己账号吗，说清楚这件事](docs/codex-04-codex中转站能用自己账号吗说清楚这件事.md)
-- [codex中转站会不会动我的代码，把这事讲透](docs/codex-05-codex中转站会不会动我的代码把这事讲透.md)
-- [codex的api怎么配置，从密钥到跑通第一条](docs/codex-06-codex的api怎么配置从密钥到跑通第一条.md)
-- [codex中转站怎么使用，拿个真任务走一遍](docs/codex-07-codex中转站怎么使用拿个真任务走一遍.md)
-- [codex中转站用下来什么手感，我用了二十来天](docs/codex-08-codex中转站用下来什么手感我用了二十来天.md)
-- [codex中转是什么意思，token 中转是怎么回事](docs/codex-09-codex中转是什么意思token中转是怎么回事.md)
-- [codex中转站适合谁用，三种用法对号入座](docs/codex-10-codex中转站适合谁用三种用法对号入座.md)
+- [codex中转站是什么，和官网原版差在哪](docs/01-codex中转站是什么和官网原版差在哪.md)
+- [codex中转站怎么配置，地址和密钥两步接上](docs/02-codex中转站怎么配置地址和密钥两步接上.md)
+- [codex中转站和原版有什么区别，三条能自己对](docs/03-codex中转站和原版有什么区别三条能自己对.md)
+- [codex中转站能用自己账号吗，说清楚这件事](docs/04-codex中转站能用自己账号吗说清楚这件事.md)
+- [codex中转站会不会动我的代码，把这事讲透](docs/05-codex中转站会不会动我的代码把这事讲透.md)
+- [codex的api怎么配置，从密钥到跑通第一条](docs/06-codex的api怎么配置从密钥到跑通第一条.md)
+- [codex中转站怎么使用，拿个真任务走一遍](docs/07-codex中转站怎么使用拿个真任务走一遍.md)
+- [codex中转站用下来什么手感，我用了二十来天](docs/08-codex中转站用下来什么手感我用了二十来天.md)
+- [codex中转是什么意思，token 中转是怎么回事](docs/09-codex中转是什么意思token中转是怎么回事.md)
+- [codex中转站适合谁用，三种用法对号入座](docs/10-codex中转站适合谁用三种用法对号入座.md)
 
 ### chatgpt 中转站（10 篇）
 
-- [chatgpt中转站是什么，和官网订阅不是一回事](docs/chatgpt-01-chatgpt中转站是什么和官网订阅不是一回事.md)
-- [ChatGPT中转和官方API的区别，三条能自己验](docs/chatgpt-02-ChatGPT中转和官方API的区别三条能自己验.md)
-- [chatgpt中转站怎么在客户端里用，地址密钥填一遍](docs/chatgpt-03-chatgpt中转站怎么在客户端里用地址密钥填一遍.md)
-- [chatgpt中转站能当真 ChatGPT 用吗，说清能干啥](docs/chatgpt-04-chatgpt中转站能当真ChatGPT用吗说清能干啥.md)
-- [chatgpt的api怎么用，翻译和写东西各跑一遍](docs/chatgpt-05-chatgpt的api怎么用翻译和写东西各跑一遍.md)
-- [api中转站是什么，一个密钥接多个模型讲明白](docs/chatgpt-06-api中转站是什么一个密钥接多个模型讲明白.md)
-- [chatgpt中转站用下来什么手感，说说真实的](docs/chatgpt-07-chatgpt中转站用下来什么手感说说真实的.md)
-- [chatgpt中转站适合谁，三类人用法不一样](docs/chatgpt-08-chatgpt中转站适合谁三类人用法不一样.md)
-- [中转站能不能生图，gpt-image 那条路走一遍](docs/chatgpt-09-中转站能不能生图gpt-image那条路走一遍.md)
-- [一个密钥接好几个模型，用久了是什么体验](docs/chatgpt-10-一个密钥接好几个模型用久了是什么体验.md)
+- [chatgpt中转站是什么，和官网订阅不是一回事](docs/11-chatgpt中转站是什么和官网订阅不是一回事.md)
+- [ChatGPT中转和官方API的区别，三条能自己验](docs/12-ChatGPT中转和官方API的区别三条能自己验.md)
+- [chatgpt中转站怎么在客户端里用，地址密钥填一遍](docs/13-chatgpt中转站怎么在客户端里用地址密钥填一遍.md)
+- [chatgpt中转站能当真 ChatGPT 用吗，说清能干啥](docs/14-chatgpt中转站能当真ChatGPT用吗说清能干啥.md)
+- [chatgpt的api怎么用，翻译和写东西各跑一遍](docs/15-chatgpt的api怎么用翻译和写东西各跑一遍.md)
+- [api中转站是什么，一个密钥接多个模型讲明白](docs/16-api中转站是什么一个密钥接多个模型讲明白.md)
+- [chatgpt中转站用下来什么手感，说说真实的](docs/17-chatgpt中转站用下来什么手感说说真实的.md)
+- [chatgpt中转站适合谁，三类人用法不一样](docs/18-chatgpt中转站适合谁三类人用法不一样.md)
+- [中转站能不能生图，gpt-image 那条路走一遍](docs/19-中转站能不能生图gpt-image那条路走一遍.md)
+- [一个密钥接好几个模型，用久了是什么体验](docs/20-一个密钥接好几个模型用久了是什么体验.md)
 
 ---
 
